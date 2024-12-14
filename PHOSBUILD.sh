@@ -2,7 +2,7 @@ rm -rf /opt/PHANTX/mbtget
 
 cd /opt/PHANTX
 
-git clone https://github.com/vanhauser-thc/thc-ipv6
+git clone https://github.com/sourceperl/mbtget.git
 
 cd /opt/PHANTX/mbtget
 
